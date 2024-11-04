@@ -36,7 +36,6 @@ time = sol.t
 E_kinetic = 0.5 * m * v ** 2
 E_potential = 0.5 * k * x ** 2
 E_total = E_kinetic + E_potential
-print(E_potential)
 
 # Построение графиков
 plt.figure(figsize=(12, 8))
